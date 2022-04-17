@@ -3,7 +3,11 @@
 I am Kuldeep Nageshwar full stack webdeveloper,Senior software Engineer at LnT Infotech,India.I've been working in tech since 2018.I am from India.I have a batchelor in computer science and engineering from RGPV Bhopal, India.Intrested contributing in opensource project for learning and knowledge build up.
 
 
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+</h2> 
 
+## 💼 Technical Skills
 
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
