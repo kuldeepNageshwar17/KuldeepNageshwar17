@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Kuldeep Nageshwar full stack webdeveloper,Senior software Engineer at LnT Infotech,India.I've been working in tech since 2018.I am from India.I have a batchelor in computer science and engineering from RGPV Bhopal, India.Intrested contributing in opensource project for learning and knowledge build up.
+I'm a Senior Software Engineer and Fullstack Developer with 5 years of experience. 💻 I'm passionate about building scalable and user-friendly web applications, and I love to collaborate with other developers and learn new technologies. 🚀 My skills include JavaScript, React, Node.js, Python, and SQL, among others. 🌟 I'm excited to share my projects with the GitHub community and contribute to open-source projects as well. Let's connect and code together! 😊
 
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 </h2> 
 
 ## 💼 Technical Skills
