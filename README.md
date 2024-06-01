@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Senior Software Engineer and Fullstack Developer with 5 years of experience. 💻 I'm passionate about building scalable and user-friendly web applications, and I love to collaborate with other developers and learn new technologies. 🚀 My skills include JavaScript, React, Node.js, Python, and SQL, among others. 🌟 I'm excited to share my projects with the GitHub community and contribute to open-source projects as well. Let's connect and code together! 😊
+I'm a Senior Software Engineer and Fullstack Developer with 6 years of experience. 💻 I'm passionate about building scalable and user-friendly web applications, and I love to collaborate with other developers and learn new technologies. 🚀 My skills include JavaScript, React, Node.js, Python, and SQL, among others. 🌟 I'm excited to share my projects with the GitHub community and contribute to open-source projects as well. Let's connect and code together! 😊
 
 
 <h2 align="center">
